@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denis784
 - 👀 I’m software developer
-- 🌱 I’m a  computer science graduate
+- 🌱 I’m a computer science graduate
 - 💞️ I’m looking to collaborate on programming and full stack development
 - 📫 daindenise254@gmail.com
 
