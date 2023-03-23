@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @denis784
-- 👀 I’m software developer
-- 🌱 I’m a computer science graduate
-- 💞️ I’m looking to collaborate on programming and full stack development
-- 📫 daindenise254@gmail.com
+- 👋 Hi, I’m Denis Muthuiya
+- 👀 I’m software Engineer
+- 🌱 | BS in Computer Science
+- 💞️ Software engineer with a passion for building innovative solutions 
 
 <!---
 denis784/denis784 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
