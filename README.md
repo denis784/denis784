@@ -4,7 +4,6 @@
 - 💞️ Software engineer with a passion for building innovative solutions
 - 
 - I'm familiar with :
-![image](https://github.com/denis784/denis784/assets/76738719/069a9dce-9d01-4606-b726-c1d35add9550)
 
 ![image](https://github.com/denis784/denis784/assets/76738719/bf21f080-c1a4-41e5-850d-af22045e40de)
 
